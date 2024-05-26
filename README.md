@@ -1,4 +1,4 @@
-# Recursive-SQL-Queries-1
+# <p align = "center"> Recursive-SQL-Queries-1 </p>
 
 ![](recursive_framework.png)
 
